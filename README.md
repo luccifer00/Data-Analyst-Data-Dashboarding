@@ -11,7 +11,7 @@ This is a basic example to demonstrate a simple and clean dashboard format.
 
 ---
 
-## HR Attrition Dashboard
+## HR Attrition Dashboard 
 This dashboard, while simple, consists of **three slides**. Custom backgrounds were designed using PowerPoint to enhance visual appeal.
 
 - **Slide 1:** [![HR Attrition Dashboard Slide 1](Hr%20Attrition%20Dashboard/screenshots/Main.png)](Hr%20Attrition%20Dashboard/screenshots/Main.png)
