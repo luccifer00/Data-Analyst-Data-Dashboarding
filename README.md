@@ -23,7 +23,7 @@ This dashboard, while simple, consists of **three slides**. Custom backgrounds w
 ## ARG Sales Dashboard
 This dashboard compresses various information into a single slide, demonstrating how to present multiple key insights concisely.
 
-- **Slide 1:** [![ARG Sales Dashboard](ARG%20Sales%20DashBoard/screenshot/ARG%20dashboard.png)](ARG%20Sales%20Dashboard/screenshot/ARG%20dashboard.png)
+- **Slide 1:** [![ARG Sales Dashboard](ARG%20Sales%20Dashboard/screenshot/ARG%20dashboard.png)](ARG%20Sales%20Dashboard/screenshot/ARG%20dashboard.png)
 
 ---
 
