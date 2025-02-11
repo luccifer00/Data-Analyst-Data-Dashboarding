@@ -1,0 +1,75 @@
+Location ID	Name	County	State Code	State	Type	Latitude	Longitude	Area Code	Time Zone
+A100	Anaheim	Orange County	CA	California	City	33,83529	-117,9145	657	America/Los Angeles
+A101	Antioch	Contra Costa County	CA	California	City	38,00492	-121,80579	925	America/Los Angeles
+A102	Bakersfield	Kern County	CA	California	City	35,37329	-119,01871	661	America/Los Angeles
+A103	Berkeley	Alameda County	CA	California	City	37,87159	-122,27275	510	America/Los Angeles
+A104	Burbank	Los Angeles County	CA	California	City	34,18084	-118,30897	818	America/Los Angeles
+A105	Carlsbad	San Diego County	CA	California	City	33,15809	-117,35059	760	America/Los Angeles
+A106	Chula Vista	San Diego County	CA	California	City	32,64	-117,08417	619	America/Los Angeles
+A107	Clovis	Fresno County	CA	California	City	36,82523	-119,70292	559	America/Los Angeles
+A108	Concord	Contra Costa County	CA	California	City	37,97798	-122,03107	925	America/Los Angeles
+A109	Corona	Riverside County	CA	California	City	33,87529	-117,56644	951	America/Los Angeles
+A110	Costa Mesa	Orange County	CA	California	City	33,64113	-117,91867	949	America/Los Angeles
+A111	Daly City	San Mateo County	CA	California	City	37,70583	-122,46194	650	America/Los Angeles
+A112	Downey	Los Angeles County	CA	California	City	33,94001	-118,13257	562	America/Los Angeles
+A113	East Los Angeles	Los Angeles County	CA	California	CDP	34,0239	-118,17202	323	America/Los Angeles
+A114	El Cajon	San Diego County	CA	California	City	32,79477	-116,96253	619	America/Los Angeles
+A115	Elk Grove	Sacramento County	CA	California	City	38,4088	-121,37162	916	America/Los Angeles
+A116	El Monte	Los Angeles County	CA	California	City	34,06862	-118,02757	626	America/Los Angeles
+A117	Escondido	San Diego County	CA	California	City	33,11921	-117,08642	760	America/Los Angeles
+A118	Fairfield	Solano County	CA	California	City	38,24936	-122,03997	707	America/Los Angeles
+A119	Fontana	San Bernardino County	CA	California	City	34,09223	-117,43505	909	America/Los Angeles
+A120	Fremont	Alameda County	CA	California	City	37,54827	-121,98857	510	America/Los Angeles
+A121	Fresno	Fresno County	CA	California	City	36,74773	-119,77237	559	America/Los Angeles
+A122	Fullerton	Orange County	CA	California	City	33,87029	-117,92534	657	America/Los Angeles
+A123	Garden Grove	Orange County	CA	California	City	33,77391	-117,94145	657	America/Los Angeles
+A124	Glendale	Los Angeles County	CA	California	City	34,14251	-118,25508	818	America/Los Angeles
+A125	Hayward	Alameda County	CA	California	City	37,66882	-122,0808	510	America/Los Angeles
+A126	Huntington Beach	Orange County	CA	California	City	33,6603	-117,99923	657	America/Los Angeles
+A127	Inglewood	Los Angeles County	CA	California	City	33,96168	-118,35313	424	America/Los Angeles
+A128	Irvine	Orange County	CA	California	City	33,66946	-117,82311	949	America/Los Angeles
+A129	Jurupa Valley	Riverside County	CA	California	City	34,00259	-117,46761	951	America/Los Angeles
+A130	Lancaster	Los Angeles County	CA	California	City	34,69804	-118,13674	661	America/Los Angeles
+A131	Long Beach	Los Angeles County	CA	California	City	33,76696	-118,18923	562	America/Los Angeles
+A132	Los Angeles	Los Angeles County	CA	California	City	34,05223	-118,24368	213	America/Los Angeles
+A133	Modesto	Stanislaus County	CA	California	City	37,6391	-120,99688	209	America/Los Angeles
+A134	Moreno Valley	Riverside County	CA	California	City	33,93752	-117,23059	951	America/Los Angeles
+A135	Murrieta	Riverside County	CA	California	City	33,55391	-117,21392	951	America/Los Angeles
+A136	Norwalk	Los Angeles County	CA	California	City	33,90224	-118,08173	562	America/Los Angeles
+A137	Oakland	Alameda County	CA	California	City	37,80437	-122,2708	510	America/Los Angeles
+A138	Oceanside	San Diego County	CA	California	City	33,19587	-117,37948	760	America/Los Angeles
+A139	Ontario	San Bernardino County	CA	California	City	34,06334	-117,65089	909	America/Los Angeles
+A140	Orange	Orange County	CA	California	City	33,78779	-117,85311	657	America/Los Angeles
+A141	Oxnard	Ventura County	CA	California	City	34,1975	-119,17705	805	America/Los Angeles
+A142	Palmdale	Los Angeles County	CA	California	City	34,57943	-118,11646	661	America/Los Angeles
+A143	Pasadena	Los Angeles County	CA	California	City	34,14778	-118,14452	626	America/Los Angeles
+A144	Pomona	Los Angeles County	CA	California	City	34,05529	-117,75228	909	America/Los Angeles
+A145	Rancho Cucamonga	San Bernardino County	CA	California	City	34,1064	-117,59311	909	America/Los Angeles
+A146	Rialto	San Bernardino County	CA	California	City	34,1064	-117,37032	909	America/Los Angeles
+A147	Richmond	Contra Costa County	CA	California	City	37,93576	-122,34775	510	America/Los Angeles
+A148	Riverside	Riverside County	CA	California	City	33,95333	-117,39611	951	America/Los Angeles
+A149	Roseville	Placer County	CA	California	City	38,75212	-121,28801	916	America/Los Angeles
+A150	Sacramento	Sacramento County	CA	California	City	38,58157	-121,4944	530	America/Los Angeles
+A151	Salinas	Monterey County	CA	California	City	36,67774	-121,6555	831	America/Los Angeles
+A152	San Bernardino	San Bernardino County	CA	California	City	34,10834	-117,28977	909	America/Los Angeles
+A153	San Buenaventura (Ventura)	Ventura County	CA	California	City	34,26778	-119,25421	805	America/Los Angeles
+A154	San Diego	San Diego County	CA	California	City	32,71533	-117,15726	619	America/Los Angeles
+A155	San Francisco	San Francisco County	CA	California	City	37,775	-122,41944	415	America/Los Angeles
+A156	San Jose	Santa Clara County	CA	California	City	37,33939	-121,89496	408	America/Los Angeles
+A157	San Mateo	San Mateo County	CA	California	City	37,56299	-122,32553	650	America/Los Angeles
+A158	Santa Ana	Orange County	CA	California	City	33,74557	-117,86783	949	America/Los Angeles
+A159	Santa Clara	Santa Clara County	CA	California	City	37,35411	-121,95524	408	America/Los Angeles
+A160	Santa Clarita	Los Angeles County	CA	California	City	34,39166	-118,54259	661	America/Los Angeles
+A161	Santa Maria	Santa Barbara County	CA	California	City	34,95303	-120,43572	805	America/Los Angeles
+A162	Santa Rosa	Sonoma County	CA	California	City	38,44047	-122,71443	707	America/Los Angeles
+A163	Simi Valley	Ventura County	CA	California	City	34,26945	-118,78148	805	America/Los Angeles
+A164	Stockton	San Joaquin County	CA	California	City	37,9577	-121,29078	209	America/Los Angeles
+A165	Sunnyvale	Santa Clara County	CA	California	City	37,36883	-122,03635	408	America/Los Angeles
+A166	Temecula	Riverside County	CA	California	City	33,49364	-117,14836	951	America/Los Angeles
+A167	Thousand Oaks	Ventura County	CA	California	City	34,17056	-118,8375	805	America/Los Angeles
+A168	Torrance	Los Angeles County	CA	California	City	33,83585	-118,34063	424	America/Los Angeles
+A169	Vallejo	Solano County	CA	California	City	38,10409	-122,25664	707	America/Los Angeles
+A170	Victorville	San Bernardino County	CA	California	City	34,53611	-117,29116	760	America/Los Angeles
+A171	Visalia	Tulare County	CA	California	City	36,33023	-119,29206	559	America/Los Angeles
+A172	Vista	San Diego County	CA	California	City	33,20004	-117,24254	760	America/Los Angeles
+A173	West Covina	Los Angeles County	CA	California	City	34,06862	-117,93895	626	America/Los Angeles
